@@ -66,7 +66,7 @@ Make sure you have Flutter installed on your system.
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/tusharsinha08/smart-shop.git](https://github.com/tusharsinha08/smart-shop.git)
+    git clone https://github.com/tusharsinha08/smart-shop.git
     ```
 2.  Navigate to the project directory:
     ```bash
